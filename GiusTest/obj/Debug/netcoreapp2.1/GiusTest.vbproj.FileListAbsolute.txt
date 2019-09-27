@@ -1,0 +1,15 @@
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\GiusTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\GiusTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\GiusTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\GiusTest\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\GiusTest\bin\Debug\netcoreapp2.1\GiusTest.deps.json
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\GiusTest\bin\Debug\netcoreapp2.1\GiusTest.runtimeconfig.json
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\GiusTest\bin\Debug\netcoreapp2.1\GiusTest.runtimeconfig.dev.json
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\GiusTest\bin\Debug\netcoreapp2.1\GiusTest.dll
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\GiusTest\bin\Debug\netcoreapp2.1\GiusTest.pdb
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\GiusTest\obj\Debug\netcoreapp2.1\GiusTest.vbprojAssemblyReference.cache
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\GiusTest\obj\Debug\netcoreapp2.1\GiusTest.vbproj.CoreCompileInputs.cache
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\GiusTest\obj\Debug\netcoreapp2.1\GiusTest.AssemblyInfoInputs.cache
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\GiusTest\obj\Debug\netcoreapp2.1\GiusTest.AssemblyInfo.vb
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\GiusTest\obj\Debug\netcoreapp2.1\GiusTest.dll
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\GiusTest\obj\Debug\netcoreapp2.1\GiusTest.pdb

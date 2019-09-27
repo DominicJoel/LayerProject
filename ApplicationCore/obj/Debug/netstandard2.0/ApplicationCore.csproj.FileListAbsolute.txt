@@ -1,0 +1,12 @@
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.deps.json
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.dll
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.pdb
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.csprojAssemblyReference.cache
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfo.cs
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.dll
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.pdb
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\ApplicationCore\bin\Debug\netstandard2.0\Infrastucture.dll
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\ApplicationCore\bin\Debug\netstandard2.0\Infrastucture.pdb
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\Infrastucture\bin\Debug\netstandard2.0\Infrastucture.deps.json
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\Infrastucture\bin\Debug\netstandard2.0\Infrastucture.dll
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\Infrastucture\obj\Debug\netstandard2.0\Infrastucture.csprojAssemblyReference.cache
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\Infrastucture\obj\Debug\netstandard2.0\Infrastucture.csproj.CoreCompileInputs.cache
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\Infrastucture\obj\Debug\netstandard2.0\Infrastucture.AssemblyInfoInputs.cache
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\Infrastucture\obj\Debug\netstandard2.0\Infrastucture.AssemblyInfo.cs
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\Infrastucture\bin\Debug\netstandard2.0\Infrastucture.pdb
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\Infrastucture\obj\Debug\netstandard2.0\Infrastucture.dll
+C:\DominicMinaya\FrontEnd\WebApiGiusLayer\WebApiGius\Infrastucture\obj\Debug\netstandard2.0\Infrastucture.pdb
